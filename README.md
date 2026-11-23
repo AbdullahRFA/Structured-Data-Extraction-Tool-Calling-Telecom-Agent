@@ -1,4 +1,4 @@
-Structured Data Extraction & Tool-Calling Telecom Agent
+# Structured Data Extraction & Tool-Calling Telecom Agent
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Pydantic v2](https://img.shields.io/badge/Pydantic-v2-red.svg)](https://docs.pydantic.dev/)
